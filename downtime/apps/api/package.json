@@ -10,7 +10,13 @@
     "typescript": "^5"
   },
   "dependencies": {
+    "@clerk/clerk-sdk-node": "^4.13.11",
+    "@downtime/db": "*",
+    "@types/cors": "^2.8.17",
     "@types/express": "^5.0.1",
-    "express": "^4.21.2"
+    "@types/jsonwebtoken": "^9.0.9",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2"
   }
 }
